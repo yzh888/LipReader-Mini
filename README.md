@@ -14,9 +14,6 @@ This project is perfect for:
 
 AI/ML beginners
 
-Students preparing portfolio / interview demos
-
-Anyone who wants a functional lip-reading pipeline without heavy computation
 
 中文：
 Mini LipReader 是一个基于 TCN 唇语识别思想构建的 可直接运行的轻量化 Demo。
@@ -25,10 +22,6 @@ Mini LipReader 是一个基于 TCN 唇语识别思想构建的 可直接运行�
 本项目非常适合：
 
 人工智能入门学习
-
-需要制作求职作品集或面试 Demo 的同学
-
-希望体验“唇语识别”完整流程但不想折腾训练的人
 
 📁 Project Structure | 项目结构
 LipReader-Mini/
